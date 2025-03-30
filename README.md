@@ -25,7 +25,7 @@ This repository shows projects that deal with time series analysis in the financ
 - **[Stock Price Prediction:](https://github.com/MiltonGreat/Stock-Price-Prediction-Using-LSTM-and-GRU-Models.git)** Built LSTM and GRU models for forecasting stock prices.
 - **[Market Trend Analysis:](https://github.com/MiltonGreat/Market-Trend-Analysis.git)** Applied Exponential Smoothing and Prophet to identify market trends.
 - **[Portfolio Risk Analysis:](https://github.com/MiltonGreat/Portfolio-Risk-Analysis.git)** Used Value at Risk (VaR) and Expected Shortfall to assess risk.
-- **Seasonality Detection:** Applied Fourier Transform and Wavelet Analysis to detect cyclic patterns.
+- **[Seasonality Detection:](https://github.com/MiltonGreat/Seasonality-Detection.git)** Applied Fourier Transform and Wavelet Analysis to detect cyclic patterns.
 
 ### 3. Forex Exchange Rates (Currency Price Forecasting)
 
