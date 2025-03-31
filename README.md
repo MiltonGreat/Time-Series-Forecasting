@@ -49,7 +49,7 @@ This repository shows projects that deal with time series analysis in the financ
 
 - **[Sentiment Analysis & Market Impact:](https://github.com/MiltonGreat/Sentiment-Analysis-Market-Impact.git)** Used NLP techniques to analyze how financial news affects stock prices.
 - **[Event-Based Forecasting:](https://github.com/MiltonGreat/Event-Based-Forecasting-of-Stock-Market-Movements.git)** Studied how breaking news and market events influence stock trends.
-- **Causal Inference:** Applied Granger Causality Tests to determine if sentiment drives stock movement.
+- **[Causal Inference:](https://github.com/MiltonGreat/Causal-Inference.git)** Applied Granger Causality Tests to determine if sentiment drives stock movement.
 
 ### 5. Gold Prices Dataset (Commodities Price Forecasting)
 
