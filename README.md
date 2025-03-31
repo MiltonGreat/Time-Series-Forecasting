@@ -1,7 +1,5 @@
 # Time Series Forecasting
 
-![screenshot-localhost_8888-2025 03 31-09_34_07](https://github.com/user-attachments/assets/0f817e74-c49e-4ea3-afc6-391f0287fade)
-
 This repository shows projects that deal with time series analysis in the financial industry for forecasting, risk modeling, and anomaly detection. Here are some datasets where I apply time series techniques to simulate realistic financial scenarios and refine my data science skills.
 
 ### 1. Bitcoin Historical Data (Cryptocurrency Price Forecasting)
