@@ -10,7 +10,7 @@ This repository shows projects that deal with time series analysis in the financ
 
 **What I Did in the Project:**
 
-- **[Price Forecasting:](https://github.com/MiltonGreat/Bitcoin-Price-Forecasting.git)** Used ARIMA, LSTM, and Prophet to predict future Bitcoin prices.
+- **[Price Forecasting:](https://github.com/MiltonGreat/Gold-Price-Prediction.git)** Used ARIMA, LSTM, and Prophet to predict future Bitcoin prices.
 - **[Volatility Analysis:](https://github.com/MiltonGreat/Bitcoin-Volatility-Analysis.git)** Implemented GARCH models to study price fluctuations and risk.
 - **[Anomaly Detection:](https://github.com/MiltonGreat/Bitcoin-Anomaly-Detection.git)** Applied isolation forests and autoencoders to detect flash crashes and price spikes.
 
