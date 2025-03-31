@@ -36,7 +36,7 @@ This repository shows projects that deal with time series analysis in the financ
 **What I Did in the Project:**
 
 - **Currency Exchange Rate Forecasting:** Predicted future rates using SARIMA and LSTMs.
-- **Economic Indicator Analysis:** Explored inflation, GDP, and interest rate trends affecting forex.
+- **[Economic Indicator Analysis:](https://github.com/MiltonGreat/Economic-Indicator-Analysis.git)** Explored inflation, GDP, and interest rate trends affecting forex.
 - **[Hedging Strategies:](https://github.com/MiltonGreat/Hedging-Strategies.git)** Tested moving average crossovers for forex trading signals.
 
 ### 4. Financial Tweets & Stock Prices (Sentiment Analysis & Market Prediction)
