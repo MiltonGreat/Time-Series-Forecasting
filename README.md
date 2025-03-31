@@ -85,4 +85,4 @@ This repository shows projects that deal with time series analysis in the financ
 
 - **[Yield Curve Analysis:](https://github.com/MiltonGreat/Yield-Curve-Analysis.git)** Studied bond yield spreads to predict economic downturns.
 - **[Interest Rate Forecasting:](https://github.com/MiltonGreat/Interest-Rate-Forecasting.git)** Built VAR (Vector Autoregression) models to forecast interest rates.
-- **Macroeconomic Policy Impact:** Analyzed how policy changes impact bond yields and economic stability.
+- **[Macroeconomic Policy Impact:](https://github.com/MiltonGreat/Policy-Impact-on-Bond-Yields.git)** Analyzed how policy changes impact bond yields and economic stability.
