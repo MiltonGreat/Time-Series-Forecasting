@@ -60,7 +60,7 @@ This repository shows projects that deal with time series analysis in the financ
 **What I Did in the Project:**
 
 - **[Gold Price Prediction:](https://github.com/MiltonGreat/Gold-Price-Behavior-.git)** Built XGBoost and LSTM models to forecast gold prices.
-- **Inflation Hedging Analysis:** Compared gold price trends to CPI data to assess its role as an inflation hedge.
+- **[Inflation Hedging Analysis:](https://github.com/MiltonGreat/Inflation-Hedging-Analysis.git)** Compared gold price trends to CPI data to assess its role as an inflation hedge.
 - **[Safe Haven Asset Analysis:](https://github.com/MiltonGreat/Gold-Price-Behavior-.git)** Studied gold price behavior during financial crises.
 
 ### 6. Bank Transactions Dataset (Anomaly Detection & Fraud Detection)
