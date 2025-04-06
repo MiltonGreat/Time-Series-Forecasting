@@ -63,19 +63,7 @@ This repository shows projects that deal with time series analysis in the financ
 - **[Inflation Hedging Analysis:](https://github.com/MiltonGreat/Inflation-Hedging-Analysis.git)** Compared gold price trends to CPI data to assess its role as an inflation hedge.
 - **[Safe Haven Asset Analysis:](https://github.com/MiltonGreat/Gold-Price-Behavior-.git)** Studied gold price behavior during financial crises.
 
-### 6. Bank Transactions Dataset (Anomaly Detection & Fraud Detection)
-
-**Dataset:** Synthetic Bank Transactions Dataset
-
-**Description:** This dataset contains simulated financial transaction data with timestamps, making it useful for detecting fraudulent transactions using time-series models.
-
-**What I Did in the Project:**
-
-- **Anomaly Detection:** Applied LSTM Autoencoders and Isolation Forests to identify fraudulent transactions.
-- **Time-Based User Behavior Modeling:** Analyzed spending patterns to detect unusual financial activity.
-- **Financial Risk Modeling:** Studied transaction frequencies to develop fraud risk scores.
-
-### 7. US Treasury Yield Curve Rates (Macroeconomic Forecasting)
+### 6. US Treasury Yield Curve Rates (Macroeconomic Forecasting)
 
 **Dataset:** US Treasury Yield Curve Rates
 
